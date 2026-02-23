@@ -1,0 +1,1 @@
+Inventario_de_una_tienda
